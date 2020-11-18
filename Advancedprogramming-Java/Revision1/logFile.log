@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-03-14T13:00:44.337956100Z</date>
+  <millis>1584190844337</millis>
+  <nanos>956100</nanos>
+  <sequence>0</sequence>
+  <logger>Revision1</logger>
+  <level>WARNING</level>
+  <class>Revision1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Index 3 out of bounds for length 3</message>
+</record>
+</log>
